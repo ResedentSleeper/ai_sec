@@ -24,7 +24,7 @@ create three different poisoned marks:
   
 After running the code with class "6" we get the following results:
 
-![result](/img/res_6.png)
+![result](img/res_6.png)
 
 
 | Sample | Size in pixels | Confidence | Number of epochs | Accuracy Before | Accuracy After |
@@ -104,7 +104,7 @@ parameter (0.1; 0.5; 1.0):
 
 Trigger for experiments:
 
-![tg_1](/img/1.png)
+![tg_1](img/1.png)
 
 <b>Answer for 2:</b>
 
@@ -113,4 +113,4 @@ one is the colors and the way they represent.
 
 Pixel density is different:
 
-![tg_2](/img/2.png)
+![tg_2](img/2.png)
